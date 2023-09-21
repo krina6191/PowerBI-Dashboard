@@ -9,8 +9,6 @@ Here are the tasks I performed:
 
 -Transformed data using Power Query.
 
--Added slicers to check sales by region.
-
 -Used different types of customized visualizations such as bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicer, etc.
 
 #Dataanalysis #Datavisualization #PowerBI #PowerBI Dashboard
